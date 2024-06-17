@@ -1,0 +1,16 @@
+.main-div{
+width: 700px;
+height: auto;
+background-color: antiquewhite;
+margin: 100px auto;
+padding: 5px;
+}
+.triangles{
+    background-color: rgb(242, 214, 179);
+    margin: auto;
+}
+
+#result{
+   width: fit-content;
+    margin: 0 auto;
+}
